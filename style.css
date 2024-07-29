@@ -1,0 +1,188 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: aqua;
+    margin: 20px;
+    
+}
+
+
+#title{
+    text-align: center;
+    margin-bottom: 10px;
+    font-weight: 600;
+    text-shadow: 2px 2px 8px;
+    padding-bottom: 20px;
+
+}
+
+
+#description{
+    text-align: center;
+    padding-bottom: 20px;
+    font-style: italic;
+    font-size: 20px;
+    
+}
+
+.container{
+    max-width: 900px;
+    height:auto;
+    background-color:rgb(161, 168, 238);
+    margin: 50px auto;
+    border-radius: 10px;
+    padding: 20px;
+  }
+
+  #firs-tname{
+    max-width: 900px;
+    height:auto;
+    background-color:rgb(161, 168, 238);
+    margin: 50px auto;
+    border-radius: 10px;
+    padding: 20px;
+
+  }
+
+#outputtable{
+    width: 100%;
+    height: 50px;
+    border-collapse: collapse;
+}
+
+th,td{
+    border: 1px solid black;
+    text-align: center;
+   
+
+}
+
+/* .container .form-group input{
+   
+    width:150px;
+    height: 20px auto;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-indent:10px;
+    box-shadow: 2px 2px 9px;
+} */
+#first-name{
+    width:150px;
+    height: 20px auto;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-indent:10px;
+    box-shadow: 2px 2px 9px;
+
+}
+
+#last-name{
+    width:150px;
+    height: 20px auto;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-indent:10px;
+    box-shadow: 2px 2px 9px;
+}
+
+#address{
+    width:150px;
+    height: 20px auto;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-indent:10px;
+    box-shadow: 2px 2px 9px;
+}
+
+#pincode{
+    width:150px;
+    height: 20px auto;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-indent:10px;
+    box-shadow: 2px 2px 9px;
+}
+
+#state{
+    width:150px;
+    height: 20px auto;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-indent:10px;
+    box-shadow: 2px 2px 9px;
+}
+
+#country{
+    width:150px;
+    height: 20px auto;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-indent:10px;
+    box-shadow: 2px 2px 9px;
+}
+
+
+
+
+ #gender{
+    width: 150px;
+    height: 20px auto;
+    border: 1px solid black;
+    border-radius: 5px;
+    box-shadow: 2px 2px 9px;
+} 
+
+
+#food{
+
+    width: 150px;
+    height: 20px auto;
+    border: 1px solid black;
+    border-radius: 5px;
+    box-shadow: 2px 2px 9px;
+}
+
+
+.container .form-group button{
+
+    width: 100px;
+    height: 20px auto;
+    border: 1px solid black;
+    border-radius: 5px;
+    box-shadow: 2px 2px 9px;
+    
+
+   
+}
+
+h2{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-shadow: 2px 2px 18px;
+
+}
+
+#sumbit:hover{
+
+    cursor:pointer;
+    color:rgb(255, 255, 255);
+    background-color: rgb(15, 14, 14);
+    
+}
+
+
+#clear:hover{
+    cursor:pointer;
+    color:rgb(255, 255, 255);
+    background-color: rgb(15, 14, 14);
+    
+
+}
+
+
+
+
+    
